@@ -1,3 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/*
 body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -28,6 +33,7 @@ p code {
 .nav-item.dropdown .dropdown-item a {
   color: inherit;
 }
+*/
 
 .nav-item.dropdown .dropdown-item .navbar-item {
   width: 100%;

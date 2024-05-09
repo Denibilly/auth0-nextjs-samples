@@ -1,16 +1,14 @@
 'use client';
 
 import React from 'react';
-
-import Hero from '../components/Hero';
+import Slider from '../components/Slider';
 import Content from '../components/Content';
 
 export default function Index() {
   return (
-    <>
-      <Hero />
-      <hr />
+    <main className="w-full grid place-items-center">
+      <Slider />
       <Content />
-    </>
+    </main>
   );
 }
