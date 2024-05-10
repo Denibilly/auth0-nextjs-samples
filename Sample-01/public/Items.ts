@@ -15,7 +15,7 @@ export const images = [
       id: 3,
       src: "/3.png",
       title: "Agenda",
-      desc: "Next.js\n - Performance\n- SEO friendly\n- Easy development and deployment \n- Great developer experience\n\n- Auth0 Integration & Live demo",
+      desc: "Next.js\n - Performance\n- SEO friendly\n- Easy development and deployment \n- Great developer experience\n\nAuth0\n- Auth0 Integration & Live demo",
     },
     {
       id: 4,

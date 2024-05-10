@@ -5,3 +5,12 @@ AUTH0_BASE_URL: The base URL of your application.
 AUTH0_ISSUER_BASE_URL: The URL of your Auth0 tenant domain. If you are using a Custom Domain with Auth0, set this to the value of your Custom Domain instead of the value reflected in the "Settings" tab.
 AUTH0_CLIENT_ID: Your Auth0 application's Client ID.
 AUTH0_CLIENT_SECRET: Your Auth0 application's Client Secret.
+
+sub for subject
+
+Incremental Static Regeneration (ISR)
+FCP -> first contentful paint
+LCP -> largest contenful paint
+INP -> interaction to next paint (google ranking)
+
+partial rendering -> streaming component (suspense tag) / loading skeletons
