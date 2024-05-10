@@ -1,3 +1,0 @@
-{
-    "rewrites": [{ "source": "/(.*)", "destination": "/Sample-01/app/layout.jsx" }]
-}
