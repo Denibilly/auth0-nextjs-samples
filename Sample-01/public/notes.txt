@@ -1,0 +1,29 @@
+
+
+Introduction
+We provide an out-of-the-box authentication & authorization platform for any application, with the extensibility to fit your needs.
+
+SDK Libraries 
+With a few lines of code you can have Auth0 integrated in any app written in any language, and any framework. We provide 30+ SDKs & Quickstarts to help you succeed on your implementation
+Auth0 SDK libraries make it easy for developers to integrate and interact with Auth0. Explore any library on GitHub, download a sample application, or use a quickstart for customized help.
+
+
+Universal login
+Auth0 Universal Login provides the essential feature of an authorization server: the login flow. When a user needs to prove their identity to gain access to your application, you can redirect them to Universal Login and let Auth0 handle the authentication process. 
+
+Attack protection / Security center
+Auth0 can detect attacks and stop malicious attempts to access your application such as blocking traffic from certain IPs and displaying CAPTCHA.
+Security Center is available for all Enterprise customers
+
+Database Connections
+Auth0 provides database connections to authenticate users with an identifier (email, username, or phone number) and password. These credentials are securely stored in the Auth0 user store or in your own database.
+Social Identity Providers: More than 40.
+Enterprise Identity Providers: Active Directory/LDAP, ADFS, Azure Active Directory Native, Google Workspace, OpenID Connect, Okta, PingFederate, SAML, Azure Active Directory
+
+User Profile
+User data can come from many sources, including your own databases as well as social, legal, and enterprise identity providers. Some examples include Google, Facebook, Active Directory, or SAML. You can normalize user data that comes from any supported data source. 
+
+Actions / Trigger
+Triggers are points in the Auth0 process where Actions can be added for required customization. Multiple Actions can be placed in a Trigger, executing in sequence. Triggers can be synchronous (blocking) or asynchronous (non-blocking). Each trigger has specific Objects and APIs.
+
+Demo
