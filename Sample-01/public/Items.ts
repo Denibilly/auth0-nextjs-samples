@@ -63,7 +63,7 @@ export const images = [
       id: 11,
       src: "/11.jpg",
       title: "Demo",
-      desc: "",
+      desc: "Auth0 Live demo - Dashboard",
     }
   ];
 
